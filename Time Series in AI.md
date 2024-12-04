@@ -120,13 +120,6 @@ Here’s a **comprehensive roadmap** to learn **Time Series in AI**:
   - Coursera: Time Series Analysis by Duke University.
   - Udemy: "Time Series Analysis with Python".
 
-- **Online Tutorials**:
-  - Blogs on Medium, Towards Data Science.
-  - Hands-on tutorials on Kaggle.
-
-- **Research Papers**:
-  - Stay updated with arXiv and Google Scholar.
-
 ---
 
 ### Suggested Learning Timeline
